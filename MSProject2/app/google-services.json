@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841547375526",
+    "project_id": "mscproject2-b40b9",
+    "storage_bucket": "mscproject2-b40b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841547375526:android:c6e23540da5a7aba5fa567",
+        "android_client_info": {
+          "package_name": "com.example.msproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841547375526-9579oul92oa681t2btugog7a2is3qas8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPfyvlKRqSbSJAODEjgIhCD92CBn2uQeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841547375526-9579oul92oa681t2btugog7a2is3qas8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
